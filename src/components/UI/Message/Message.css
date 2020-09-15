@@ -1,0 +1,21 @@
+.Message {
+  background-color: transparent;
+  border: none;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  font-weight: bold;
+  width: 80%;
+  align-self: center;
+  text-align: center;
+}
+
+.Success {
+  background-color: lightgreen;
+}
+.Danger {
+  background-color: salmon;
+}
